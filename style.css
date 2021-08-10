@@ -1,0 +1,20 @@
+div {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+fieldset {
+    width: 350px;
+    height: 390px;
+    margin: auto;
+}
+
+#genero {
+    text-decoration: double;
+    margin-left: 280px;
+}
+
+#salvar {
+    margin-left: 300px;
+}
